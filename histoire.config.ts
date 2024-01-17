@@ -6,5 +6,6 @@ export default defineConfig({
     plugins: [
         HstVue(),
         HstNuxt(),
-    ]
+    ],
+    setupFile: 'histoire.setup.ts',
 });

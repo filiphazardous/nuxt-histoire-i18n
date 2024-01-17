@@ -15,9 +15,10 @@
   "devDependencies": {
     "@histoire/plugin-nuxt": "^0.17.8",
     "@histoire/plugin-vue": "^0.17.8",
+    "@nuxtjs/i18n": "^8.0.0",
     "histoire": "^0.17.8",
-    "nuxt": "^3.9.1",
-    "vue": "^3.4.10",
+    "nuxt": "^3.9.2",
+    "vue": "^3.4.14",
     "vue-router": "^4.2.5"
   }
 }
