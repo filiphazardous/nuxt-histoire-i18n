@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <Story>
     <my-button />
-  </div>
+  </Story>
 </template>
