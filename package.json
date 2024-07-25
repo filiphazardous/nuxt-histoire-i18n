@@ -13,12 +13,12 @@
     "preview:story": "histoire preview"
   },
   "devDependencies": {
-    "@histoire/plugin-nuxt": "^0.17.8",
-    "@histoire/plugin-vue": "^0.17.8",
-    "@nuxtjs/i18n": "^8.0.0",
-    "histoire": "^0.17.8",
-    "nuxt": "^3.9.2",
-    "vue": "^3.4.14",
-    "vue-router": "^4.2.5"
+    "@histoire/plugin-nuxt": "0.17.17",
+    "@histoire/plugin-vue": "0.17.17",
+    "@nuxtjs/i18n": "8.0.2",
+    "histoire": "0.17.17",
+    "nuxt": "3.12.4",
+    "vue": "3.4.34",
+    "vue-router": "4.3.3"
   }
 }
